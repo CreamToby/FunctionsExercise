@@ -128,6 +128,8 @@ const charactersTwo = [
 randomMuppet =  (characters) => {
     console.log(`${characters[Math.floor(Math.random() * characters.length)]}`);
 }
+// random array string js
+// https://www.codegrepper.com/code-examples/javascript/javascript+pick+random+string+from+array%5D
 
 // 12d
 randomMuppet(charactersOne);
